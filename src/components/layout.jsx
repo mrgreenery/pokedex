@@ -7,7 +7,7 @@ export default function Layout() {
       <header className="header">
         <div className="header-inner">
           <span className="logo">
-            <img src="/pokedex/pokeball.svg" alt="" width={28} height={28} />
+            <img src="/pokedex/pokeball.svg" alt="" width={28} height={28}/>
             Pokédex
           </span>
           <nav>
